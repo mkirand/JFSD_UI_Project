@@ -1,0 +1,102 @@
+{
+  "clients": [
+    {
+      "fullname": "Client A",
+      "email": "clientA@gmail.com",
+      "address": "124 Main St, Atlanta, GA 23908",
+      "password": "clienta",
+      "repeatPassword": "clienta",
+      "id": "5d8c"
+    },
+    {
+      "fullname": "Client B",
+      "email": "clientB@gm.com",
+      "address": "345 E Wells Street, Chicago, IL 23432",
+      "password": "clientb123",
+      "repeatPassword": "clientb123",
+      "id": "2920"
+    },
+    {
+      "id": "2550",
+      "fullname": "Client C",
+      "email": "clientC@gm.com",
+      "address": "405 W Elliot Rd, New York, 23434",
+      "password": "clientc",
+      "repeatPassword": "clientc"
+    },
+    {
+      "id": "0891",
+      "fullname": "Client D",
+      "email": "clientD@gmail.com",
+      "address": "898 E Wall St, Los Angeles, 98787",
+      "password": "clientd",
+      "repeatPassword": "clientd"
+    },
+    {
+      "id": "adbc",
+      "fullname": "Client E",
+      "email": "clientE@gm.com",
+      "address": "987 N Polo Ave, Dallas, 65444",
+      "password": "cliente",
+      "repeatPassword": "cliente"
+    },
+    {
+      "id": "8574",
+      "fullname": "Client F",
+      "email": "clientF@gm.com",
+      "address": "5434 Rudra Street, T Nager, Kolkata, WB 48484",
+      "password": "clientf",
+      "repeatPassword": "clientf"
+    }
+  ],
+  "meetings": [
+    {
+      "topic": "Discuss new project enhancements",
+      "clientId": "5d8c",
+      "startDate": "2025-05-25T14:15",
+      "endDate": "2025-05-25T15:15",
+      "peopleCount": 4,
+      "id": "c84d"
+    },
+    {
+      "id": "8a1d",
+      "topic": "New project discussion",
+      "clientId": "2920",
+      "startDate": "2025-06-06T14:00",
+      "endDate": "2025-06-06T15:00",
+      "peopleCount": 10
+    },
+    {
+      "topic": "Follow up discussion",
+      "clientId": "2920",
+      "startDate": "2025-06-13T12:00",
+      "endDate": "2025-06-13T13:00",
+      "peopleCount": 10,
+      "id": "f204"
+    },
+    {
+      "topic": "Demo App changes with Client",
+      "clientId": "5d8c",
+      "startDate": "2025-06-08T12:30",
+      "endDate": "2025-06-08T13:30",
+      "peopleCount": 6,
+      "id": "48bc"
+    },
+    {
+      "id": "3055",
+      "topic": "Discuss Project Timelines",
+      "clientId": "8574",
+      "startDate": "2025-06-11T15:00",
+      "endDate": "2025-06-11T16:00",
+      "peopleCount": 15
+    },
+    {
+      "id": "85c5",
+      "topic": "Initial Client Meetup",
+      "clientId": "adbc",
+      "startDate": "2025-06-13T10:00",
+      "endDate": "2025-06-13T11:00",
+      "peopleCount": 5
+    }
+  ]
+}
